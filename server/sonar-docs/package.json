@@ -9,7 +9,7 @@
     "fs-extra": "^5.0.0",
     "gatsby": "^1.9.247",
     "gatsby-link": "^1.6.40",
-    "gatsby-plugin-glamor": "^1.6.13",
+    "gatsby-plugin-glamor": "^3.11.0",
     "gatsby-plugin-react-helmet": "^2.0.10",
     "gatsby-plugin-typography": "^1.7.18",
     "gatsby-remark-custom-blocks": "^1.0.5",
